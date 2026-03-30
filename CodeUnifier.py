@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 ================================================================================
-CODE UNIFIER PRO - UNIFICADOR INTELIGENTE DE CÓDIGO-FONTE
+CODE UNIFIER - UNIFICADOR INTELIGENTE DE CÓDIGO-FONTE
 ================================================================================
 
 DESCRIÇÃO:
